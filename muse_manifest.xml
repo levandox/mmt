@@ -1,0 +1,35 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1444534425569">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="4008452461" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
+    <file name="museutils.js" crc="3793461109" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="livohub-slider-u82-fr.png" crc="430712849" ref="index"/>
+    <file name="livohub-slider-u82-r-fr.png" crc="432368423" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u79_states.png" crc="32307590" ref="index"/>
+    <file name="u79_states-r.png" crc="3874042429" ref="index"/>
+    <file name="unihub-slider-u102-fr.png" crc="3927842472" ref="index"/>
+    <file name="unihub-slider-u102-r-fr.png" crc="432368423" ref="index"/>
+    <file name="u105_states.png" crc="430085804" ref="index"/>
+    <file name="u105_states-r.png" crc="3878607078" ref="index"/>
+    <file name="dynahub-slider-u113-fr.png" crc="4272860569" ref="index"/>
+    <file name="dynahub-slider-u113-r-fr.png" crc="432368423" ref="index"/>
+    <file name="synehub-slider-u121-fr.png" crc="241506595" ref="index"/>
+    <file name="synehub-slider-u121-r-fr.png" crc="432368423" ref="index"/>
+    <file name="u120_states.png" crc="521761621" ref="index"/>
+    <file name="u120_states-r.png" crc="457880929" ref="index"/>
+    <file name="logo.png" crc="346319770" ref="index"/>
+    <file name="u116.png" crc="156763366" ref="index"/>
+    <file name="u116-r.png" crc="4019697773" ref="index"/>
+    <file name="arrow_up_10732584269663px_1189169_easyiconnet-u149.png" crc="426677442" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4029903138" mt="1444534352659" redirect="true"/>
+</manifest>
